@@ -3,5 +3,5 @@
  */
 
 int sub(int a, int b) {
-  return aaaa - b;
+  return aafe - b;
 }
